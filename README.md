@@ -7,6 +7,9 @@ BikeShare Project
 ### Software Requirements
 Python Version 3.9
 
+### Software installation
+for installation, check out the python documentation [click Here](https://www.python.org/downloads/)
+
 
 ### Description
 US Bikeshare Statistical analysis
