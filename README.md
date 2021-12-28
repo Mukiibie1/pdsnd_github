@@ -4,6 +4,9 @@
 ### Project Title
 BikeShare Project
 
+### Software Requirements
+Python Version 3.9
+
 
 ### Description
 US Bikeshare Statistical analysis
